@@ -1,0 +1,5 @@
+.hover:hover{
+    background-color: darkgrey;
+    color: black !important;
+    border-radius: 10px;
+}
